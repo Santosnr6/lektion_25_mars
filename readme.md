@@ -12,6 +12,7 @@
 - [Scrimba - Learn React](https://scrimba.com/learn/learnreact).
 
 ## Videor
+Videon från dagens genomgång dröjer då den håller på att kompileras i molnet, så sålänge kan ni kolla på [den här videon](https://vimeo.com/653010575/0139fb6b2c) där Cristoffer på Zocom går igenom hur man skapar sitt första projekt, samt grunderna inom JSX.
 Vi kommer titta närmre på *Props* först på onsdag, men om ni vill få en liten tjuvstart så kan ni kolla in [denna videon](https://vimeo.com/653010630/c876c78057).
 
 ## Övningar
