@@ -1,9 +1,14 @@
+import Card from "./components/Card";
 
 function App() {
 
+  let publishJesper = true;
+
   return (
-    <h1>Jesper</h1>
+    <div className="app">
+      { publishJesper ? <Card /> : <p>Ingen Jesper funnen!</p> }
+    </div>
   )
 }
 
-export default App
+export default App;
