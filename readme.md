@@ -17,3 +17,6 @@ Vi kommer titta närmre på *Props* först på onsdag, men om ni vill få en lit
 
 ## Övningar
 Hittar ni i mappen [Övningar](https://github.com/Santosnr6/lektion_25_mars/tree/main/%C3%96vningar).
+
+## Studerandegrupper
+Ni som är intresserade av att delta i studerandegrupper kan skriva in er i valfri grupp [här](https://docs.google.com/document/d/179YYbPcJSsOzk_GbDWZUCH55reVrCRdyAnLf8lafguY/edit?usp=sharing). Om någon hamnar ensam i en grupp så kommer jag att flytta den personen till en annan grupp som innehåller andra studerande.
