@@ -17,3 +17,7 @@ Vi kommer titta närmre på *Props* först på onsdag, men om ni vill få en lit
 
 ## Övningar
 Hittar ni i mappen [Övningar](https://github.com/Santosnr6/lektion_25_mars/tree/main/%C3%96vningar).
+
+## Liveföreläsning
+
+Alla tre inspelningar från lektionen [hittar ni här](https://folkuniversitetet-se.zoom.us/rec/share/tbU8yOi0docJ3QG4kXEg_LMVjnZUevei6iKC70bbBbDM_LXLLH71EIkDkyyDVEvQ.ROf12PL2sHrMkB6a). Lösenord: DK6iL*9b
